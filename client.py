@@ -2,7 +2,7 @@ import socket
 import os
 from tqdm import tqdm
 
-SERVER_HOST = "192.168.137.237"
+SERVER_HOST = "0.0.0.0"
 SERVER_PORT = 65432
 
 BUFFER_SIZE = 4096
